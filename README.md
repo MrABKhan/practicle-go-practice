@@ -1,2 +1,2 @@
-# practicle-go-practice
-Just some practice excersize while I learn Go lang 
+# Go Practice
+My Practice Code From "Practical Go Lessons" book by Maximilien Andile.
